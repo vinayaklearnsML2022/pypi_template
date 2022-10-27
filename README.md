@@ -16,22 +16,19 @@
 # step 4:
     # mention all the build details and tools required in pyproject.toml
 
+
 # step 5:
-    # mention all the build details and tools required in pyproject.toml
-
-
-# step 6:
     # mention the metadata, options, options require, options extras require and package data in
     # setup.cfg
 
-# step 7:
+# step 6:
     # create a virtual environment and install python, activate the environment and install the pip
     # requirements from init_setup.sh file
 
-# step 8:
+# step 7:
 	# create test_dummy.py in both unit and integration test folder and return assert True
 	# run pytest -v to check whether all the tests are passing
-# step 9:
+# step 8:
 	# list the envlist in tox.ini
 	# list of python versions
 	# list all the commands
